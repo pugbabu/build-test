@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="21px" viewBox="0 0 136 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>连接状态断通</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-326.000000, -599.000000)">
+            <g id="连接状态断通" transform="translate(326.000000, 599.000000)">
+                <g id="Group-4备份" fill-rule="nonzero" stroke="#FFFFFF">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="19" height="14" rx="2"></rect>
+                    <path d="M10,15 L10,18.5" id="Line-7" stroke-linecap="square"></path>
+                    <path d="M6.5,19.5 L13.5,19.5" id="Line-8" stroke-linecap="round"></path>
+                </g>
+                <g id="Group-9备份" transform="translate(116.000000, 0.500000)" fill-rule="nonzero" stroke="#FFFFFF" stroke-linecap="round">
+                    <path d="M1,3 L1,17" id="Line-12"></path>
+                    <path d="M19,3 L19,17" id="Line-12-Copy"></path>
+                    <ellipse id="Oval" stroke-linejoin="round" cx="10" cy="3" rx="9" ry="3"></ellipse>
+                    <path d="M1,10 C1,11.6568542 5.02943725,13 10,13 C14.9705627,13 19,11.6568542 19,10" id="Path" stroke-linejoin="round"></path>
+                    <path d="M1,17 C1,18.6568542 5.02943725,20 10,20 C14.9705627,20 19,18.6568542 19,17" id="Path" stroke-linejoin="round"></path>
+                </g>
+                <g id="Group-5备份" transform="translate(58.000000, 0.000000)" fill-rule="nonzero">
+                    <circle id="Oval" fill="#FFFFFF" cx="16" cy="3" r="1"></circle>
+                    <circle id="Oval-Copy-4" fill="#FFFFFF" cx="16" cy="12" r="1"></circle>
+                    <rect id="Rectangle" stroke="#FFFFFF" x="0.5" y="0.5" width="19" height="6" rx="1"></rect>
+                    <rect id="Rectangle-Copy-4" stroke="#FFFFFF" x="0.5" y="9.5" width="19" height="6" rx="1"></rect>
+                    <path d="M6.5,19.5 L13.5,19.5" id="Line-11" stroke="#FFFFFF" stroke-linecap="round"></path>
+                    <path d="M10,15.5 L10,18.5" id="Line-10" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M10,6.5 L10,8.5" id="Line-10-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+                </g>
+                <g id="Group-11备份" transform="translate(22.000000, 4.000000)">
+                    <rect id="Rectangle-Copy-5" fill="#CCCCCC" x="0" y="5" width="34" height="2" rx="1"></rect>
+                    <circle id="Oval-Copy-5" fill="#999999" cx="17" cy="6" r="6"></circle>
+                    <path d="M15,4 L19,8" id="Line-13" stroke="#FFFFFF" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <path d="M15,4 L19,8" id="Line-13" stroke="#FFFFFF" stroke-linecap="round" fill-rule="nonzero" transform="translate(17.000000, 6.000000) scale(-1, 1) translate(-17.000000, -6.000000) "></path>
+                </g>
+                <g id="Group-10备份" transform="translate(80.000000, 4.000000)">
+                    <rect id="Rectangle" fill="#41CC72" x="0" y="5" width="34" height="2" rx="1"></rect>
+                    <circle id="Oval" fill="#37AB60" cx="17" cy="6" r="6"></circle>
+                    <polyline id="路径-3备份" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="14 6 16 9 20 4"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

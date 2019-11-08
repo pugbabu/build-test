@@ -1,0 +1,32 @@
+@import "../custom.css";
+
+.bi-progress_font{
+    /*  font-size: @reference;
+      font-size: @unittecBlack;*/
+      word-break: normal;
+      width: 2em;
+      text-align: left;
+      font-size: --reference;
+      margin-left: 8px;
+      vertical-align: middle;
+      display: inline-block;
+      white-space: nowrap;
+      color: --unittecBlack;
+      line-height: 1;
+    
+      display: block;
+      position: absolute;
+      width: 100%;
+      text-align: center;
+      line-height: 1;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 0;
+      margin: 0;
+      white-space: normal;
+      padding: 0 6px;
+    }
+    
+    .bi-progress_background{
+      background: --light1;
+    }

@@ -1,0 +1,69 @@
+@import "../custom.css";
+
+ /******密集型和稀疏型页签的公用样式******/
+.bluetab-style .ant-tabs {
+    font-family: 'Source Han Sans CN';
+    color: var(--dark1);     
+}
+.bluetab-style .ant-tabs-bar {
+    border: none;
+}
+.bluetab-style .ant-tabs-nav-container {
+    font-size: var(--text);
+}
+    
+.bluetab-style .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab  {
+    border: 1px solid var(--dark1);
+    padding: 9px 18px;
+    background: var(--light1);
+    line-height: 20px;
+    height: 40px;
+}
+.bluetab-style .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab-active {
+    border-color:var(--unittecBlue);
+    color: var(--unittecBlue);
+}
+.bluetab-style .ant-tabs-nav .ant-tabs-tab:hover {
+    border-color: var(--unittecBlue) !important;
+    color: var(--unittecBlue);
+}
+.bluetab-style .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab-hover {
+    border-color: var(--unittecBlue);
+    color: var(--unittecBlue);
+}
+ 
+/******稀疏型页签的样式******/
+.sparse .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab {         
+    border-bottom: none;
+    border-radius: 5px 5px 0 0;           
+    margin-right: 4px;       
+}     
+/******密集型页签的样式******/
+.compact .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab {
+    border-left: 0;
+    border-radius: 0;  
+    margin-right: 0;              
+}
+.compact .ant-tabs.ant-tabs-card .ant-tabs-tab-active {      
+    box-shadow: -1px 0 0 0 var(--unittecBlue);
+    z-index: 1;
+}
+.compact .ant-tabs-nav .ant-tabs-tab:hover {     
+    box-shadow: -1px 0 0 0 var(--unittecBlue);
+    z-index: 1;
+}
+.compact .ant-tabs-tab:first-child {
+    border-radius: 5px 0px 0px 5px !important; 
+    border-left: 1px solid var(--dark1) !important;
+}
+.compact .ant-tabs-tab:last-child {
+    border-radius: 0px 5px 5px 0px !important; 
+}
+.compact .ant-tabs.ant-tabs-card .ant-tabs-tab-active:first-child {
+    box-shadow: none !important;
+    border-left: 1px solid var(--unittecBlue) !important; 
+}
+.compact .ant-tabs-nav .ant-tabs-tab:first-child:hover {
+    box-shadow: none !important;
+    border-left: 1px solid var(--unittecBlue) !important; 
+}

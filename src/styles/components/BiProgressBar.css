@@ -1,0 +1,36 @@
+@import "../custom.css";
+
+/* 设置进度条状态栏的宽度避免将 进度条文本挤下去 */
+.ant-progress-outer 
+{
+    width: 99%;
+}
+/* 进度条占比文本样式 */
+.ant-progress-text {
+    font-size: --reference;
+    margin-left: 8px;
+    color: --unittecBlack;
+}
+.anticon svg {
+    width: 16px;
+    height: 16px;
+}
+/* 进度条正常状态的颜色样式设置 */
+.ant-progress-success-bg, .ant-progress-bg 
+{
+    background-color: --normal;
+}
+/* 进度条完成状态的颜色样式设置 */
+.ant-progress-status-success .ant-progress-bg 
+{
+    background-color: --normal;
+}
+/* 进度条异常状态颜色样式设置 */
+.ant-progress-status-exception .ant-progress-bg {
+    background-color: --alarm1;
+}
+/* 设置进度条的背景色 */
+.ant-progress-inner {
+    background-color: --light3;
+}
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>线路地图2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-428.000000, -256.000000)" fill-rule="nonzero">
+            <g id="线路地图2" transform="translate(440.000000, 268.000000) scale(-1, 1) translate(-440.000000, -268.000000) translate(428.000000, 256.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M12,4 C13.6442607,4 15.2328024,4 18,4 C20.2495344,4 22.0085953,5.99016418 22.0000314,8 C21.9914701,9.99453537 20.2324092,12.0088593 18,12.0088593 C13.5180564,12.0088593 10.282684,12.0088593 6,12.0088593 C3.85026946,12.0088593 2.22403653,13.9944195 2.21105291,16 C2.19832425,17.9899285 3.78172836,20 6,20 C8.9693276,20 11.3026609,20 13,20" id="Path-2" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9,8 C6.790861,8 5,6.209139 5,4 C5,1.790861 6.790861,0 9,0 C11.209139,0 13,1.790861 13,4 C13,6.209139 11.209139,8 9,8 Z M9,6 C10.1045695,6 11,5.1045695 11,4 C11,2.8954305 10.1045695,2 9,2 C7.8954305,2 7,2.8954305 7,4 C7,5.1045695 7.8954305,6 9,6 Z" id="Combined-Shape" fill="#F39800"></path>
+                <path d="M16,24 C13.790861,24 12,22.209139 12,20 C12,17.790861 13.790861,16 16,16 C18.209139,16 20,17.790861 20,20 C20,22.209139 18.209139,24 16,24 Z M16,22 C17.1045695,22 18,21.1045695 18,20 C18,18.8954305 17.1045695,18 16,18 C14.8954305,18 14,18.8954305 14,20 C14,21.1045695 14.8954305,22 16,22 Z" id="Combined-Shape-Copy-2" fill="#F39800"></path>
+                <path d="M6,4 L1,4" id="Line-5" stroke="#F39800" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M23,20 L19,20" id="Line-5-Copy" stroke="#F39800" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+@import "../custom.css";
+
+.ant-progress-circle{
+    background-color: --light1;
+}
+.ant-progress-circle .ant-progress-text {
+    color: --unittecBlack;
+    font-size: --reference;
+}
+.ant-progress-circle.ant-progress-status-success .ant-progress-text {
+    color: --normal;
+}
+.ant-progress-circle .ant-progress-inner {
+    background-color: --light3;
+}
+
+

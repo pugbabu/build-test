@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>查询统计4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-652.000000, -256.000000)">
+            <g id="查询统计4" transform="translate(652.000000, 256.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-3" transform="translate(9.000000, 2.000000)">
+                    <path d="M11,8 C11,9.1045695 11.8954305,10 13,10 C14.1045695,10 15,9.1045695 15,8 C15,6.8954305 14.1045695,6 13,6 C11.8954305,6 11,6.8954305 11,8 Z" id="Path" fill="#F39800"></path>
+                    <polyline id="Path-6" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" points="2.66453526e-15 5.98637949 1 5.98637949 2 2 5 11 8 5.41788836e-14 10 8 11 8"></polyline>
+                </g>
+                <g id="Group-2" transform="translate(0.000000, 1.000000)" fill-rule="nonzero" stroke="#F39800">
+                    <path d="M11.5,18.3786797 L11.5,22.6213203" id="Line-7-Copy" stroke-width="2" stroke-linecap="round" transform="translate(11.500000, 20.500000) rotate(-45.000000) translate(-11.500000, -20.500000) "></path>
+                    <path d="M4.5,11 L4.5,15 C4.5,16.1045695 5.3954305,17 6.5,17 L10.5,17" id="Path-8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M6,20.5 C9.03756612,20.5 11.5,18.0375661 11.5,15 C11.5,11.9624339 9.03756612,9.5 6,9.5 C2.96243388,9.5 0.5,11.9624339 0.5,15 C0.5,18.0375661 2.96243388,20.5 6,20.5 Z M6,19.5 C3.51471863,19.5 1.5,17.4852814 1.5,15 C1.5,12.5147186 3.51471863,10.5 6,10.5 C8.48528137,10.5 10.5,12.5147186 10.5,15 C10.5,17.4852814 8.48528137,19.5 6,19.5 Z" id="Combined-Shape-Copy-5" fill="#F39800"></path>
+                    <path d="M6.5,0 L6.5,9.5" id="Line-9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M11.5,15 L23,15" id="Line" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

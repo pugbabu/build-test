@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>回放</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-428.000000, -288.000000)" fill-rule="nonzero">
+            <g id="回放" transform="translate(440.000000, 300.000000) scale(-1, 1) translate(-440.000000, -300.000000) translate(428.000000, 288.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <rect id="Rectangle" stroke="#F39800" stroke-width="2" x="5" y="4" width="17" height="14" rx="2"></rect>
+                <path d="M1,6.07420868 L1,15.925571 L4.99811604,14.2074872 L4.99811604,7.79229253 L1,6.07420868 Z" id="Rectangle" stroke="#F39800" stroke-width="2"></path>
+                <circle id="Oval" stroke="#F39800" stroke-width="2" fill="#FFFFFF" cx="19" cy="17" r="4"></circle>
+                <path d="M18.9239992,15.6783986 L20.5218753,18.2350005 C20.6682305,18.4691688 20.5970439,18.777644 20.3628756,18.9239992 C20.2834098,18.9736653 20.191586,19 20.0978762,19 L16.9021238,19 C16.6259814,19 16.4021238,18.7761424 16.4021238,18.5 C16.4021238,18.4062901 16.4284585,18.3144663 16.4781247,18.2350005 L18.0760008,15.6783986 C18.222356,15.4442304 18.5308312,15.3730438 18.7649995,15.519399 C18.829384,15.5596393 18.8837588,15.6140141 18.9239992,15.6783986 Z" id="Triangle" fill="#F39800" transform="translate(18.500000, 17.000000) scale(-1, 1) rotate(90.000000) translate(-18.500000, -17.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+@import "../custom.css";
+
+.bi-search {
+  font-family: var(--fontFamily);
+}
+/* 输入框组件的标签基本样式 */
+.bi-search_label{
+   font-size: var(--text) ;
+ }
+
+/* 输入框组件的输入框基本样式 */
+.bi-search_search {
+  border: 1px solid var(--dark1);
+  text-align: left;
+  background-color: var(--light1);
+  font-size: var(--text);
+  /* 文本边距设置 */
+  text-indent: 12px;
+  outline: none;
+  color: var(--dark1);
+
+  height: 40px;
+  border-radius: 5px;
+  line-height: 40px;
+
+  /* 搜索框背景 */
+  background-size: 20px 20px;
+  /* 设置icon的偏移量，使用calc方法 */
+  background-position: calc(100% - 8px) calc(50%);
+  background-repeat: no-repeat;
+}
+/* 边框颜色 */
+.bi-search_search_border-color_offline{
+   border: 1px solid var(--offline);
+ }
+.bi-search_search_border-color_available{
+   border: 1px solid var(--dark1);
+ }
+
+
+/* 输入框默认文本样式，chrome内核，其他内核浏览器失效 */
+input::-webkit-input-placeholder {
+  color: var(--offline);
+}
+

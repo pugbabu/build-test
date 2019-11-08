@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="24px" viewBox="0 0 40 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>已连接1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-332.000000, -320.000000)" fill-rule="nonzero">
+            <g id="已连接1" transform="translate(332.000000, 320.000000)">
+                <rect id="Rectangle" x="0" y="0" width="40" height="24"></rect>
+                <path d="M13,12 L27,12" id="Line" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M24,2 C25.0246914,2 25.5617284,2 27.6111111,2 C33.348736,2 38,6.4771525 38,12 C38,17.5228475 33.348736,22 27.6111111,22 C25.5617284,22 25.0246914,22 24,22" id="Path" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M16,22 C14.9753086,22 14.4382716,22 12.3888889,22 C6.65126399,22 2,17.5228475 2,12 C2,6.4771525 6.65126399,2 12.3888889,2 C14.4382716,2 14.9753086,2 16,2" id="Path" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

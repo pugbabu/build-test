@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>设备监控3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-396.000000, -288.000000)" fill-rule="nonzero">
+            <g id="设备监控3" transform="translate(396.000000, 288.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M1,13 L1,23" id="Line-10" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M1.5,18.5 L4.4,18.5" id="Line" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4.5,18.5 L4.5,13" id="Line-11" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.197537, 9.865689) rotate(36.000000) translate(-11.197537, -9.865689) " x="3.69753672" y="3.86568911" width="15" height="12"></rect>
+                <polygon id="Path-9" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.969175, 15.411638) rotate(36.000000) translate(-18.969175, -15.411638) " points="16.969175 12.4116385 16.969175 18.4116385 20.93835 19.4116385 20.969175 11.4116385"></polygon>
+                <circle id="Oval" fill="#F39800" transform="translate(14.396802, 9.396802) rotate(36.000000) translate(-14.396802, -9.396802) " cx="14.3968022" cy="9.39680225" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

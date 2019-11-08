@@ -1,0 +1,36 @@
+@import "../custom.css";
+
+/* 穿梭框的按键样式 */
+.ant-btn-sm{
+
+  color: var(--unittecBlue)  !important;
+  background: var(--light1)  !important;
+}
+
+/* 穿梭框的分选框样式 */
+.ant-transfer-list{
+  text-align: left;
+  border:1px solid  var(--light4)  !important;
+  box-shadow: 0 2px 4px 0 var(--light3), inset 0 1px 3px 0 var(--light3) !important;
+  border-radius: 5px  !important;
+}
+
+/* 穿梭框的全局样式 */
+.ant-transfer{
+  font-size: var(--text)  !important;
+  font-family: var(--fontFamily)  !important;
+  color: var(--dark1)  !important;
+  padding-left: 12px  !important;
+  margin-top: 8px  !important;
+  background: var(--light1) !important;
+}
+
+.ant-transfer-list-content-item{
+  /* 横坐标的滚动条 */
+  overflow: inherit;
+}
+
+/* 穿梭框的文本样式 */
+.ant-transfer-list-content{
+  font-size: var(--text);
+}

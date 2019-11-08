@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="24px" viewBox="0 0 40 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>已连接2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-380.000000, -320.000000)" fill-rule="nonzero">
+            <g id="已连接2" transform="translate(380.000000, 320.000000)">
+                <rect id="Rectangle" x="0" y="0" width="40" height="24"></rect>
+                <circle id="Oval" stroke="#36AB60" fill="#36AB60" cx="20" cy="12" r="4.5"></circle>
+                <path d="M11.234482,5.02454845 C9.82784881,6.99030156 9,9.39847355 9,12 C9,14.6380991 9.85128844,17.077369 11.2941484,19.058093" id="Path" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M28.7308086,19.0237054 C30.1585229,17.0491677 31,14.6228526 31,12 C31,9.39837784 30.1720903,6.99012436 28.7653627,5.02433148" id="Path" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5.03837674,1.98913476 C3.1193735,4.85148365 2,8.29501998 2,12 C2,15.7052012 3.11950714,19.1489275 5.0387204,22.0113778" id="Path" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.0101047,21.938171 C36.8994664,19.0902944 38,15.6736689 38,12 C38,8.30271769 36.885273,4.86579382 34.973574,2.00698331" id="Path" stroke="#36AB60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

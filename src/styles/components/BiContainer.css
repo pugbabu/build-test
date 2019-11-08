@@ -1,0 +1,21 @@
+@import "../custom.css";
+
+/* 容器的标题 */
+.bi-container_title{
+  background: var(--unittecBlack);
+  height: 40px;
+
+  font-family: var(--fontFamily);
+  font-size: var(--emphasis);
+  color: var(--light1);
+  text-align: left;
+  line-height: 40px;
+  padding-left: 12px;
+}
+
+/* 容器的内容 */
+.bi-container_content {
+  background: var(--light1);
+  border: 1px solid var(--light3);
+  box-shadow: var(--boxShadow);
+}

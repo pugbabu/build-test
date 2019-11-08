@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>辅助信息3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-588.000000, -288.000000)" fill-rule="nonzero">
+            <g id="辅助信息3" transform="translate(588.000000, 288.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M11.75,19 L8,22 L7.25,19 L3,19 C1.8954305,19 1,18.1045695 1,17 L1,8 C1,6.8954305 1.8954305,6 3,6 L17,6 C18.1045695,6 19,6.8954305 19,8 L19,17 C19,18.1045695 18.1045695,19 17,19 L11.75,19 Z" id="Combined-Shape" stroke="#F39800" stroke-width="2"></path>
+                <path d="M5,4.88888889 L5,4 C5,2.8954305 5.8954305,2 7,2 L21,2 C22.1045695,2 23,2.8954305 23,4 L23,13 C23,14.1045695 22.1045695,15 21,15 L20.2543534,15" id="Path-16" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10,12.5 L6,12.5 L10,12.5 L10,9 L10,12.5 Z M10,12.5 L14,12.5 L10,12.5 L10,16 L10,12.5 Z" id="Combined-Shape" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

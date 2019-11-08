@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>查询统计5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-684.000000, -256.000000)" fill-rule="nonzero">
+            <g id="查询统计5" transform="translate(684.000000, 256.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-13" transform="translate(1.000000, 2.000000)" stroke="#F39800">
+                    <path d="M2.5,2 L2.5,16" id="Line-14" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.5,8 L7.5,16" id="Line-14-Copy" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12.5,12.5 L12.5,16" id="Line-14-Copy-2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M0,20 L22,20" id="Line-15" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" stroke-width="2" cx="14" cy="4" r="4"></circle>
+                    <path d="M19.1265242,5.87652416 L19.1265242,12.3765242" id="Line-16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.126524, 9.126524) rotate(-45.000000) translate(-19.126524, -9.126524) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

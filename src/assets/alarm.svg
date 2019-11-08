@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>编组 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Badge徽标" transform="translate(-7.000000, -26.000000)">
+            <g id="Group-3" transform="translate(7.000000, 18.000000)">
+                <g id="Group-2">
+                    <g id="编组-5" transform="translate(0.000000, 7.000000)">
+                        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero" stroke="#F39800" stroke-width="2">
+                            <path d="M2,23 L20,23" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M5,23 L17,23 L17,13 C17,9.6862915 14.3137085,7 11,7 C7.6862915,7 5,9.6862915 5,13 L5,23 Z" id="Rectangle"></path>
+                            <polyline id="Path-17" stroke-linecap="round" stroke-linejoin="round" points="12 11 9 14 13 14 10 17"></polyline>
+                            <path d="M0,14 L2,14" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M10,3 L12,3" id="Line-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.000000, 3.000000) rotate(90.000000) translate(-11.000000, -3.000000) "></path>
+                            <path d="M17.7691113,6.21807128 L19.7691113,6.21807128" id="Line-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.769111, 6.218071) rotate(135.000000) translate(-18.769111, -6.218071) "></path>
+                            <path d="M2.22182541,6.22182541 L4.22182541,6.22182541" id="Line-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(3.221825, 6.221825) rotate(45.000000) translate(-3.221825, -6.221825) "></path>
+                            <path d="M10.9,0.9 L10.9,0.9" id="Line-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.400000, 1.400000) rotate(90.000000) translate(-11.400000, -1.400000) "></path>
+                            <path d="M20,14 L22,14" id="Line-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.000000, 14.000000) rotate(180.000000) translate(-21.000000, -14.000000) "></path>
+                        </g>
+                        <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

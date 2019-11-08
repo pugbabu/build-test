@@ -1,0 +1,40 @@
+@import "../custom.css";
+.tab-style .ant-tabs {
+    font-family: var(--fontFamily);
+    color: var(--dark1);  
+}
+.tab-style .ant-tabs-tab{
+    height: 40px;
+}
+.tab-style .ant-tabs-bar {
+    border: none;
+}
+.tab-style .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab {         
+    border: none;
+    border-radius: 0 0 0 0;           
+    margin-right: 0px;   
+    background: var(--light3);    
+}
+.tab-style .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab  {
+    padding: 9px 18px;
+    line-height: 20px;   
+}
+.tab-style .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab-active {
+    background: var(--light1);
+    color: var(--dark1);    
+}
+.tab-style .ant-tabs-card {
+    box-shadow: var(--boxShadow);
+}
+.tab-style .ant-tabs-nav .ant-tabs-tab:hover {
+    color: var(--dark1);
+}
+.tab-style .ant-tab-card-normal {
+    color: normal !important;
+}
+.tab-style .ant-tab-card-alarm {
+    color: var(--alarm1) !important;
+}
+.tab-style .ant-tab-card-offline {
+    color: var(--offline) !important;
+}

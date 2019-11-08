@@ -1,0 +1,34 @@
+@import "../custom.css";
+
+/* 浮窗的总样式 */
+.bi-air-view{
+  background: var(--dark2);
+  opacity: 0.9;
+  float: left;
+  font-family: var(--fontFamily);
+}
+
+/* 浮窗的标题样式 */
+.bi-air-view_title{
+  color: var(--light1);
+  padding-right: 24px;
+  padding-left: 8px;
+  font-size: var(--emphasis);
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+/* 浮窗的内容样式 */
+.bi-air-view_content{
+  color: var(--light1);
+  padding-right: 24px;
+  padding-left: 8px;
+  font-size: var(--reference);
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+/* 浮窗内容的p标签样式 */
+.bi-air-view_content p{
+  margin-bottom: 0;
+}

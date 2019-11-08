@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="12px" viewBox="0 0 150 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>机柜部件6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-472.000000, -1031.000000)" fill="#CCCCCC">
+            <g id="机柜部件6" transform="translate(472.000000, 1031.000000)">
+                <rect id="矩形" x="15" y="4" width="120" height="4"></rect>
+                <polygon id="路径-3" points="0 -7.7438056e-15 0 12 10.9090909 12 15 8 15 4 10.9090909 0"></polygon>
+                <polygon id="路径-3" transform="translate(142.500000, 6.000000) scale(-1, 1) translate(-142.500000, -6.000000) " points="135 -7.7438056e-15 135 12 145.909091 12 150 8 150 4 145.909091 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

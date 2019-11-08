@@ -1,0 +1,60 @@
+@import "../custom.css";
+
+/******折叠面板公用样式******/
+.collapse-style .ant-collapse {
+    font-family: 'Source Han Sans CN';
+    color: var(--dark1);
+    font-size: var(--text);
+    border: 1px solid var(--light4);
+    box-shadow: var(--boxShadow);
+    text-align: left;
+}
+.collapse-style .ant-collapse > .ant-collapse-item {
+    border-color: var(--light4)
+}
+.collapse-style .ant-collapse-content {
+    border: none
+}
+.collapse-style .ant-collapse-content-active {
+    border: none
+}
+.collapse-style .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+    background-color: var(--light3);
+    height: 40px;
+    padding: 9px 0px 9px 36px;
+}
+.collapse-style .ant-collapse .ant-collapse-item-disabled > .ant-collapse-header, .ant-collapse .ant-collapse-item-disabled > .ant-collapse-header > .arrow {
+    color: var(--offline);
+}
+.collapse-style .ant-collapse > .ant-collapse-item > .ant-collapse-header .arrow {
+    left: 12px;
+    font-size: var(--text);
+    vertical-align: middle;
+    line-height: 18px
+    }
+.collapse-style .ant-collapse > .ant-collapse-item:last-child, .ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header {
+    border-bottom: none
+}
+
+/******带圆角的折叠面板******/
+.fillet .ant-collapse {
+    border-radius: 5px;
+}
+.fillet .ant-collapse > .ant-collapse-item:first-child, .ant-collapse > .ant-collapse-item:first-child > .ant-collapse-header {
+    border-radius: 5px 5px 0 0;
+}
+.fillet .ant-collapse > .ant-collapse-item:last-child, .ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header {
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+}
+
+/******不带圆角的折叠面板******/
+.rightangle .ant-collapse {
+    border-radius: 0;
+}
+.rightangle .ant-collapse > .ant-collapse-item:first-child, .ant-collapse > .ant-collapse-item:first-child > .ant-collapse-header {
+    border-radius: 0;
+}
+.rightangle .ant-collapse > .ant-collapse-item:last-child, .ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header {
+    border-radius: 0;
+}

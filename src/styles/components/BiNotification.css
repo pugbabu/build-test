@@ -1,0 +1,43 @@
+@import "../custom.css";
+
+/* notification的notice(notice就是弹出的窗口）样式 */
+.ant-notification-notice{
+  padding: 12px !important;
+  box-shadow: var(--boxShadow) !important;
+  border-radius: 5px !important;
+  border: 1px solid var(--light3) !important;
+  background: var(--light1) !important;
+  width: 400px !important;
+  min-height: 20px !important;
+}
+
+/* notice的标题框样式 */
+.ant-notification-notice-message{
+  color: var(--dark1) !important;
+  font-size: var(--emphasis) !important;
+}
+
+/* notice的内容样式 */
+.ant-notification-notice-description{
+  color: var(--dark4) !important;
+  font-size: var(--text) !important;
+}
+
+/* notice的button布局样式 */
+.bi-notification_button{
+  margin-top: 8px;
+  float: right;
+}
+
+/* notice的关闭icon的大小 */
+.ant-notification-close-icon{
+  font-size: 16px !important;
+}
+
+/* notice的icon的布局 */
+.ant-notification-notice-close{
+  right:12px !important;
+  top:10px !important;
+  height: 16px !important;
+
+}

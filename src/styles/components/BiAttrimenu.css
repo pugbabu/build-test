@@ -1,0 +1,33 @@
+@import "../custom.css";
+
+.attrimenu-style .ant-menu-vertical > .ant-menu-item {
+    height: 28px;
+    line-height: 28px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark1);
+    text-align: left;
+    padding: 0px 24px 0px 12px;
+}
+
+.attrimenu-style .ant-menu-root.ant-menu-vertical {
+    display: inline-block;
+    min-width: 160px;
+    border: 1px solid var(--light3);
+    box-shadow: var(--boxShadow);
+    border-radius: 4px;
+}
+
+.attrimenu-style .ant-menu-vertical .ant-menu-item:last-child {
+    margin-bottom: 9px;
+}
+
+.attrimenu-style .ant-menu-vertical .ant-menu-item:first-child {
+    margin-top: 9px;
+    }
+
+.attrimenu-style .ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color:rgba(var(--unittecBlue),0.1);
+}

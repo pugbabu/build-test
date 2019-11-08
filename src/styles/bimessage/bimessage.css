@@ -1,0 +1,85 @@
+@import "../custom.css";
+
+.ant-message-notice-content {
+  padding: 0;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 0 rgba(255, 255, 255, 0.15);
+  display: inline-block;
+  pointer-events: all;
+}
+
+.ant-message-div-success {
+  min-width: 160px;
+  height: 32px;
+  padding-bottom: 4px;
+  border-width: 1px;
+  border-style: solid;
+  background: rgba(55, 171, 96, 0.2);
+  border-color: --normal;
+  border-radius: 3px;
+}
+.ant-message-custom-content 
+{
+  padding-top: 2px;
+  
+}
+.ant-message-custom-content-font {
+  padding-left: 12px;
+  padding-bottom: 0px;
+  font-size: --reference;
+  color: --unittecBlack;
+  vertical-align: middle;
+}
+
+.ant-message-div-error {
+  min-width: 160px;
+  height: 32px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: --alarm1;
+  background: rgba(229, 0, 0, 0.2);
+  border-radius: 3px;
+}
+.ant-message-div-warning {
+  min-width: 160px;
+  height: 32px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: --alarm2;
+  background: rgba(255, 128, 0, 0.2);
+  border-radius: 3px;
+}
+.ant-message-div-info {
+  min-width: 160px;
+  height: 32px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: --unittecBlue;
+  background: rgba(0, 113, 242, 0.2);
+  border-radius: 3px;
+}
+
+.anticon .anticon-info-circle {
+    padding-right: 9px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.anticon .anticon-error-circle {
+  padding-right: 9px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.anticon .anticon-exclamation-circle {
+  padding-right: 9px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.anticon .anticon-check-circle {
+  padding-right: 9px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+

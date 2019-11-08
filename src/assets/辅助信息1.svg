@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>辅助信息1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-524.000000, -288.000000)" fill-rule="nonzero">
+            <g id="辅助信息1" transform="translate(524.000000, 288.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <path d="M1.00052135,2.6 L1.00052135,22.9931864 L2.57191268,23 L5.71469535,20.0598531 L8.85747801,23 L12,20.0598531 L15.1430433,22.9931864 L18.285826,20.0598531 L21.4286087,23 L23,22.9931864 L23,2.60681361 C22.9995044,1.72335153 22.283462,1.00708731 21.4000001,1.00631806 L2.60052127,1.00049555 C1.71686587,0.999726394 1.00029964,1.7158489 1.00002596,2.59950445 C1.00002591,2.59966964 1.00002588,2.59983482 1.00052135,2.6 Z" id="Path-14" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6,5.5 L18,5.5" id="Line-12" stroke="#F39800" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M6,10.5 L18,10.5" id="Line-12-Copy" stroke="#F39800" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M6,15.5 L18,15.5" id="Line-12-Copy-2" stroke="#F39800" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

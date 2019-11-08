@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>放大镜</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-517.000000, -356.000000)">
+            <g id="放大镜" transform="translate(518.000000, 357.000000)">
+                <circle id="椭圆形" stroke="#999999" fill-rule="nonzero" cx="8" cy="8" r="8"></circle>
+                <path d="M16.131728,12.631728 L16.131728,19.131728" id="直线-3" stroke="#979797" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.131728, 16.131728) rotate(-45.000000) translate(-16.131728, -16.131728) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

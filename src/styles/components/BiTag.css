@@ -1,0 +1,145 @@
+@import "../custom.css";
+
+.bi-tag {
+  padding: 0 4px 0 4px;
+  font-family: var(--fontFamily);
+}
+
+/* 字体颜色 */
+.bi-tag_color-font_unittecOrange{
+   color: var(--unittecOrange)
+ }
+.bi-tag_color-font_unittecBlack{
+   color: var(--unittecBlack)
+ }
+.bi-tag_color-font_unittecBlue{
+   color: var(--unittecBlue)
+ }
+.bi-tag_color-font_alarm1{
+   color: var(--alarm1);
+ }
+.bi-tag_color-font_alarm2{
+   color: var(--alarm2);
+ }
+.bi-tag_color-font_alarm3{
+   color: var(--alarm3);
+ }
+.bi-tag_color-font_alarm4{
+   color: var(--alarm4);
+ }
+
+.bi-tag_color-font_dark1{
+   color: var(--dark1);
+ }
+.bi-tag_color-font_dark2{
+   color: var(--dark2);
+ }
+.bi-tag_color-font_dark3{
+   color: var(--dark3);
+ }
+.bi-tag_color-font_dark4{
+   color: var(--dark4);
+ }
+.bi-tag_color-font_light1{
+   color: var(--light1);
+ }
+.bi-tag_color-font_light2{
+   color: var(--light2);
+ }
+.bi-tag_color-font_light3{
+   color: var(--light3);
+ }
+.bi-tag_color-font_light4{
+   color: var(--light4);
+ }
+.bi-tag_color-font_normal{
+   color: var(--normal);
+ }
+.bi-tag_color-font_offline{
+   color: var(--offline);
+ }
+.bi-tag_color-font_buttonClicked{
+   color: var(--buttonClicked);
+ }
+.bi-tag_color-font_buttonHover{
+   color: var(--buttonHover);
+ }
+
+
+/* 标签的背景颜色 */
+.bi-tag_color-background_unittecOrange{
+   background: var(--unittecOrange)
+ }
+.bi-tag_color-background_unittecBlack{
+   background: var(--unittecBlack)
+ }
+.bi-tag_color-background_unittecBlue{
+   background: var(--unittecBlue)
+ }
+.bi-tag_color-background_alarm1{
+   background: var(--alarm1);
+ }
+.bi-tag_color-background_alarm2{
+   background: var(--alarm2);
+ }
+.bi-tag_color-background_alarm3{
+   background: var(--alarm3);
+ }
+.bi-tag_color-background_alarm4{
+   background: var(--alarm4);
+ }
+.bi-tag_color-background_normal{
+   background: var(--normal);
+ }
+.bi-tag_color-background_offline{
+   background: var(--offline);
+ }
+
+.bi-tag_color-background_dark1{
+   background: var(--dark1);
+ }
+.bi-tag_color-background_dark2{
+   background: var(--dark2);
+ }
+.bi-tag_color-background_dark3{
+   background: var(--dark3);
+ }
+.bi-tag_color-background_dark4{
+   background: var(--dark4);
+ }
+.bi-tag_color-background_light1{
+   background: var(--light1);
+ }
+.bi-tag_color-background_light2{
+   background: var(--light2);
+ }
+.bi-tag_color-background_light3{
+   background: var(--light3);
+ }
+.bi-tag_color-background_light4{
+   background: var(--light4);
+ }
+
+
+/* 字体大小 */
+.bi-tag_size-font_title{
+   font-size: var(--title);
+   line-height: 40px;
+ }
+.bi-tag_size-font_emphasis{
+   font-size: var(--emphasis);
+   line-height: 40px;
+ }
+.bi-tag_size-font_text{
+   font-size: var(--text);
+   line-height: 40px;
+ }
+.bi-tag_size-font_reference{
+   font-size: var(--reference);
+   line-height: 40px;
+ }
+.bi-tag_size-font_smallReference{
+   font-size: var(--smallReference);
+   line-height: 40px;
+ }
+

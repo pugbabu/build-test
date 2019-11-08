@@ -1,0 +1,91 @@
+@import "../custom.css";
+
+.bi-spin {
+  font-family: var(--fontFamily);
+}
+
+/* 所有的图标样式 */
+.bi-spin_spinning{
+   /* 可能也不要 */
+/*   opacity: 1;
+   position: static;
+   display: inline-block;*/
+ }
+
+/* 所有的图标样式 */
+.bi-spin_dot {
+  position: relative;
+  display: inline-block;
+  font-size: 20px;
+  /* 旋转特性，**和旋转周期 */
+  transform: rotate(45deg);
+}
+/* 需求改了，这里面的速度需要修改 */
+/* animation: antRotate 0.1s infinite linear;*/
+
+/* 修改图标大小时，外框的大小 */
+/* 小图标的样式 */
+.bi-spin_dot_small{
+   width: 18px;
+   height: 18px;
+ }
+/* 中等图标的样式 */
+.bi-spin_dot_default{
+   width: 36px;
+   height: 36px;
+ }
+/* 大图标的样式 */
+.bi-spin_dot_big{
+   width: 54px;
+   height: 54px;
+ }
+
+/* 图标的总样式 */
+.bi-spin_dot_icon {
+  opacity: 0.5;
+  display: block;
+  position: absolute;
+  /* 关闭呼吸效果 */
+  /*animation: antSpinMove 1s infinite linear alternate;*/
+  transform-origin: 50% 50%;
+}
+
+/* 修改图标大小的时，图标的尺寸 */
+.bi-spin_dot_icon_small{
+   width: 8px;
+   height: 8px;
+   border-radius: 2px;
+ }
+.bi-spin_dot_icon_default{
+   width: 16px;
+   height: 16px;
+   border-radius: 3px;
+ }
+.bi-spin_dot_icon_big{
+   width: 24px;
+   height: 24px;
+   border-radius: 5px;
+ }
+
+/* 旋转的图标1-4的位置和颜色 */
+.bi-spin_dot_icon_icon1{
+   left: 0;
+   top: 0;
+   background-color: var(--unittecBlack);
+ }
+.bi-spin_dot_icon_icon2{
+   right: 0;
+   top: 0;
+   background-color: var(--unittecOrange);
+ }
+.bi-spin_dot_icon_icon3{
+   right: 0;
+   bottom: 0;
+   background-color: var(--unittecBlack);
+ }
+.bi-spin_dot_icon_icon4{
+   left: 0;
+   bottom: 0;
+   background-color: var(--unittecOrange);
+ }
+

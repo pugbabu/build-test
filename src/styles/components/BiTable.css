@@ -1,0 +1,178 @@
+@import "../../styles/custom.css";
+  .biTableClass .ant-table {
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark1);
+  }
+
+  .biTableClass .ant-table-thead>tr>th {
+    background: var(--light3);
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark1);
+    font-weight: 400;
+  }
+
+  .biTableClass .ant-table-tbody>tr>td {
+    background: var(--light1);
+  }
+
+  .biTableClass .ant-table-thead>tr>th,
+  .biTableClass .ant-table-tbody>tr>td {
+    height: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .biTableClass .ant-table-thead>tr.ant-table-row-hover:not(.ant-table-expanded-row)>td,
+  .biTableClass .ant-table-tbody>tr.ant-table-row-hover:not(.ant-table-expanded-row)>td,
+  .biTableClass .ant-table-thead>tr:hover:not(.ant-table-expanded-row)>td,
+  .biTableClass .ant-table-tbody>tr:hover:not(.ant-table-expanded-row)>td {
+    background: var(--tableSelected);
+  }
+
+  .biTableClass .ant-pagination {
+    /*设置"跳至"字体*/
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark4);
+  }
+
+  .biTableClass .ant-pagination-item {
+    min-width: 24px;
+    height: 24px;
+    line-height: 24px;
+    border-radius: 3px;
+    border: 1px solid var(--light4);
+  }
+
+  .biTableClass .ant-pagination-item:focus,
+  .biTableClass .ant-pagination-item:hover {
+    border-color: var(--unittecBlue);
+  }
+
+  .biTableClass .ant-pagination-item-active {
+    border-color: var(--unittecBlue);
+    font-weight: 500;
+  }
+
+  /*设置页码字体*/
+  .biTableClass .ant-pagination-item a {
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark4);
+  }
+
+  .biTableClass .ant-pagination-item:focus a,
+  .biTableClass .ant-pagination-item:hover a {
+    color: var(--unittecBlue);
+  }
+
+  .biTableClass .ant-pagination-item-active a {
+    color: var(--unittecBlue);
+  }
+
+  .biTableClass .ant-pagination-prev,
+  .biTableClass .ant-pagination-next
+    {
+    min-width: 24px;
+    height: 24px;
+    line-height: 24px;
+  }
+
+  /*设置prev next字体颜色*/
+  .biTableClass .ant-pagination-prev a,
+  .biTableClass .ant-pagination-next a {
+    color: var(--dark4);
+  }
+
+    /*设置prev next边界、字体大小*/
+  .biTableClass .ant-pagination-prev .ant-pagination-item-link,
+  .biTableClass .ant-pagination-next .ant-pagination-item-link {
+    border: 1px solid var(--light4);
+    border-radius: 3px; 
+    /* font-family: var(--fontFamily); */
+    /* font-size: var(--text); */
+  }
+
+  .biTableClass .ant-pagination-prev:focus .ant-pagination-item-link,
+  .biTableClass .ant-pagination-next:focus .ant-pagination-item-link,
+  .biTableClass .ant-pagination-prev:hover .ant-pagination-item-link,
+  .biTableClass .ant-pagination-next:hover .ant-pagination-item-link {
+    border-color: var(--unittecBlue);
+    color: var(--unittecBlue);
+  }
+
+  .biTableClass .ant-pagination-jump-prev,
+  .biTableClass .ant-pagination-jump-next {
+    min-width: 24px;
+    height: 24px;
+    line-height: 24px;
+    border-radius: 3px;
+    border: 1px solid var(--light4);
+  }
+
+  .biTableClass .ant-pagination-jump-prev:hover,
+  .biTableClass .ant-pagination-jump-prev:focus,
+  .biTableClass .ant-pagination-jump-next:hover,
+  .biTableClass .ant-pagination-jump-next:focus {
+    border-color: var(--unittecBlue);
+  }
+
+  /*设置jump-prev jump-next字体样式*/
+  .biTableClass .ant-pagination-jump-prev .ant-pagination-item-container .ant-pagination-item-ellipsis,
+  .biTableClass .ant-pagination-jump-next .ant-pagination-item-container .ant-pagination-item-ellipsis {
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark4);
+  }
+
+  .biTableClass .ant-pagination-jump-prev .ant-pagination-item-container .ant-pagination-item-link-icon,
+  .biTableClass .ant-pagination-jump-next .ant-pagination-item-container .ant-pagination-item-link-icon {
+    color: var(--unittecBlue);
+  }
+
+  .biTableClass .ant-pagination-options-quick-jumper input {
+    width: 48px;
+    height: 24px;
+    /*设置输入框字体、边界*/
+    font-family: var(--fontFamily);
+    font-size: var(--text);
+    color: var(--dark4);
+    border: 1px solid var(--light4);
+    border-radius: 3px;
+  }
+
+  .biTableClass .ant-pagination-options-quick-jumper input:hover,
+  .biTableClass .ant-pagination-options-quick-jumper input:focus {
+    border-color: var(--unittecBlue);
+  }
+
+  .biTableClass .ant-pagination-disabled a,
+  .biTableClass .ant-pagination-disabled:hover a,
+  .biTableClass .ant-pagination-disabled:focus a,
+  .biTableClass .ant-pagination-disabled .ant-pagination-item-link,
+  .biTableClass .ant-pagination-disabled:hover .ant-pagination-item-link,
+  .biTableClass .ant-pagination-disabled:focus .ant-pagination-item-link {
+    border-color: var(--light4);
+    color: var(--light4);
+    cursor: not-allowed;
+  }
+
+  .biTableClass .ant-table-thead>tr>th.ant-table-selection-column,
+  .biTableClass .ant-table-tbody>tr>td.ant-table-selection-column {
+    min-width: 32px;
+    width: 32px;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .biTableClass .ant-table-scroll table {
+    width: 8px;
+    min-width: 100%;
+  }
+
+  .biTableClass .ant-table-fixed-header > .ant-table-content > .ant-table-scroll > .ant-table-body {
+    position: relative;
+    background: #fff;
+  }

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>查询统计2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-588.000000, -256.000000)">
+            <g id="查询统计2" transform="translate(588.000000, 256.000000)">
+                <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                <g id="Dashboard-(9)-Copy" transform="translate(5.000000, 6.000000)">
+                    <path d="M9,6 C9,7.1045695 9.8954305,8 11,8 C12.1045695,8 13,7.1045695 13,6 C13,4.8954305 12.1045695,4 11,4 C9.8954305,4 9,4.8954305 9,6 Z" id="Path" fill="#F39800"></path>
+                    <polyline id="Path-6" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" points="0 5 1 5 2 2 4.0387204 10 6 0 8 6 10 6"></polyline>
+                </g>
+                <path d="M11,21 C5.4771525,21 1,16.5228475 1,11 C1,5.4771525 5.4771525,1 11,1 C16.5228475,1 21,5.4771525 21,11 C21,16.5228475 16.5228475,21 11,21 Z M11,19 C15.418278,19 19,15.418278 19,11 C19,6.581722 15.418278,3 11,3 C6.581722,3 3,6.581722 3,11 C3,15.418278 6.581722,19 11,19 Z" id="Combined-Shape-Copy-5" fill="#F39800" fill-rule="nonzero"></path>
+                <path d="M20.1819805,16.6819805 L20.1819805,23.6819805" id="Line-7-Copy" stroke="#F39800" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" transform="translate(20.181981, 20.181981) rotate(-45.000000) translate(-20.181981, -20.181981) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

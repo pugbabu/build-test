@@ -1,0 +1,31 @@
+@import "../custom.css";
+
+.bi-timeline{
+  font-family:  var(--fontFamily);
+  font-size:  var(--text) !important;
+  background:  var(--light1);
+  text-align: left;
+}
+
+/* 已完成时间轴节点 */
+.ant-timeline-item-head-green{
+  border-color: var(--normal) ;
+}
+
+/* 正在处理时间轴节点 */
+.ant-timeline-item-head-red{
+  border-color:  var(--alarm1) ;
+}
+
+/* 待处理时间轴节点 */
+.ant-timeline-item-head-blue{
+  border-color:  var(--dark1);
+}
+
+/* 时间轴节点的文本描述 */
+.ant-timeline-item-content{
+  color:  var(--dark1);
+  font-size:  var(--text);
+  font-family:  var(--fontFamily);
+}
+

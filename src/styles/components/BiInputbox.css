@@ -1,0 +1,88 @@
+@import "../custom.css";
+
+/* 输入框组件的字体样式 */
+.bi-input-box {
+  font-family: var(--fontFamily);
+}
+
+/* 星号的右边距 */
+.bi-input-box_img{
+   padding-right: 8px;
+ }
+
+/* 输入框组件的标签基本样式 */
+.bi-input-box_label {
+  font-size: var(--text);
+}
+/* 输入框的错误提示 */
+.bi-input-box_label_error-prompt{
+   color: red;
+   font-size: var(--smallReference);
+   float: left;
+ }
+
+
+/* 输入框组件的输入框基本样式 */
+.bi-input-box_input-box {
+  border: 1px solid var(--dark1);
+  text-align: left;
+  background-color: var(--light1);
+  font-size: var(--text);
+  /* 文本边距设置 */
+  text-indent: 12px;
+  outline: none;
+  color: var(--dark1);
+}
+
+/* size为small的输入框组件特殊样式 */
+.bi-input-box_input-box_small{
+   height: 24px;
+   border-radius: 3px;
+   line-height: 24px;
+ }
+
+/* size为medium的输入框组件特殊样式 */
+.bi-input-box_input-box_medium{
+   height: 32px;
+   border-radius: 3px;
+   line-height: 32px;
+ }
+
+/* size为big的输入框组件特殊样式 */
+.bi-input-box_input-box_big{
+   height: 40px;
+   border-radius: 5px;
+   line-height: 40px;
+ }
+
+/* 边框颜色 */
+/* 状态为不可用时的边框颜色 */
+.bi-input-box_input-box_border-color_offline{
+   border: 1px solid var(--offline);
+ }
+/* 状态为可用时的边框颜色 */
+.bi-input-box_input-box_border-color_available{
+   border: 1px solid var(--dark1);
+ }
+/* 状态为wrong时的边框颜色 */
+.bi-input-box_input-box_border-color_wrong{
+   border: 1px solid var(--alarm1);
+ }
+/* 状态为success时的边框颜色 */
+.bi-input-box_input-box_border-color_success{
+   border: 1px solid var(--normal);
+ }
+
+/* 输入框组件的icon样式 */
+.bi-input-box_input-box_icon{
+   background-size: 24px 24px;
+   /* 设置icon的偏移量，使用calc方法 */
+   background-position:calc(100% - 4px) calc(50% );
+   background-repeat: no-repeat;
+ }
+
+
+/* 输入框默认文本样式，chrome内核，其他内核浏览器失效 */
+input::-webkit-input-placeholder {
+  color:var(--offline);
+}

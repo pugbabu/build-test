@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>设备监控1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-332.000000, -288.000000)" fill-rule="nonzero">
+            <g id="设备监控1" transform="translate(332.000000, 288.000000)">
+                <g id="Group" transform="translate(0.000000, 2.000000)">
+                    <path d="M3.2,0 L20.8,0 C22.5673112,-3.24649801e-16 24,1.4326888 24,3.2 L24,14.8 C24,16.5673112 22.5673112,18 20.8,18 L3.2,18 C1.4326888,18 -6.71745219e-16,16.5673112 0,14.8 L0,3.2 C-2.164332e-16,1.4326888 1.4326888,1.21282822e-15 3.2,0 Z M3.6,2 C2.7163444,2 2,2.7163444 2,3.6 L2,14.4 C2,15.2836556 2.7163444,16 3.6,16 L20.4,16 C21.2836556,16 22,15.2836556 22,14.4 L22,3.6 C22,2.7163444 21.2836556,2 20.4,2 L3.6,2 Z" id="Combined-Shape" fill="#F39800"></path>
+                    <polyline id="Path-7" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="2 10.2 7.71331343 7 16.6913774 11 23 7.8"></polyline>
+                    <path d="M6,20.5 L19,20.5" id="Line" stroke="#F39800" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

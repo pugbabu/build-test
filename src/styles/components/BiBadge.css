@@ -1,0 +1,14 @@
+@import "../custom.css";
+
+.ant-badge-count {
+    background: var(--alarm1);
+    color: var(--light1);
+    height: 16px;
+    font-size: var(--text);
+    line-height: 16px
+}
+.hasIcon {
+    position:relative;
+    top:-8px;
+    left:-7px
+}

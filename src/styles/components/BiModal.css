@@ -1,0 +1,66 @@
+@import "../custom.css";
+
+/* 对话框组件样式 */
+.bi-modal{
+  color: var(--unittecBlack);
+  font-size: var(--text);
+  position: relative;
+  background-color: var(--light1);
+  border: 1px solid var(--light3);
+  /*修改圆角半径*/
+  border-radius: 5px;
+  background-clip: padding-box;
+  -webkit-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  /*修改阴影*/
+  box-shadow: var(--boxShadow) !important;
+}
+
+/* 标题的样式 */
+.bi-modal-header{
+  font-family: SourceHanSansCN-Normal;;
+  text-align: left;
+  line-height: 14px;
+  height: 40px;
+  padding-left: 12px ;
+  padding-bottom: 13px;
+  padding-top: 13px;
+  /*修改圆角半径*/
+  border-radius: 5px 5px 0 0 !important;
+  background: var(--light1) !important;
+
+  border-bottom: 1px solid var(--light3) !important;
+  /* 补充阴影 */
+  box-shadow: 0 -2px 4px 0 var(--light3) !important;
+}
+
+.bi-modal-body{
+  padding: 12px 0 0 12px;
+}
+
+/* X符号的样式 */
+.bi-modal-x{
+  float:right;
+  height: 16px;
+  width: 16px;
+  font-style: normal;
+  vertical-align: baseline;
+  text-align: center;
+  text-transform: none;
+  text-rendering: auto;
+  margin-right: 12px;
+}
+
+/* 底部样式 */
+.bi-modal-footer{
+  /*边界宽度为0 取消原边线*/
+  border-top: 0px solid var(--light3) !important;
+ /*padding设为0*/
+  padding: 0px 0px ;
+  text-align: right;
+  border-radius: 0 0 5px 5px;
+}
+
+/* 按键外边距 */
+.bi-modal_button{
+  margin: 0 12px 12px 0;
+}

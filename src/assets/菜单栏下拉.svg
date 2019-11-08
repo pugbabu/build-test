@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>菜单栏下拉</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-320.000000, -470.000000)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+            <polyline id="菜单栏下拉" transform="translate(325.000000, 473.000000) scale(1, -1) translate(-325.000000, -473.000000) " points="321 471 325 475 329 471"></polyline>
+        </g>
+    </g>
+</svg>

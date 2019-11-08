@@ -1,0 +1,103 @@
+@import "../custom.css";
+
+/* button组件样式 */
+.bi-button {
+  outline: none;
+  border-color: transparent;
+}
+
+/* size为big时的button组件样式 */
+.bi-button_big{
+  font-family: var(--fontFamily);
+  font-size: var(--text);
+  color: var(--light1);
+  line-height: 22px;
+  text-align: center;
+  border-radius: 5px;
+  width: 64px;
+  height: 40px;
+}
+
+/* size为medium时的button组件样式 */
+.bi-button_medium{
+  font-family: var(--fontFamily);
+  font-size: var(--text);
+  color: var(--light1);
+  line-height: 22px;
+  text-align: center;
+  border-radius: 3px;
+  width: 52px;
+  height: 32px;
+
+}
+
+/* size为small时的button组件样式 */
+.bi-button_small{
+  /* 框 */
+  border-radius: 3px;
+  width: 40px;
+  height: 24px;
+  /* 文本 */
+  font-family: var(--fontFamily);
+  font-size: var(--reference);
+  text-align: center;
+  line-height: 20px;
+}
+
+/* bi-button_primary 表示主要按键 */
+/* 主要按键的默认样式 */
+.bi-button_primary_default{
+  border: 1px solid var(--unittecBlue);
+  background: var(--unittecBlue);
+  color: var(--light1);
+}
+
+/* 主要按键悬停时的样式 */
+.bi-button_primary_hover{
+  background: var(--buttonHover);
+  border: 1px solid var(--buttonHover);
+  color: var(--light1);
+}
+/* 主要按键按下时的样式 */
+.bi-button_primary_pressed{
+  border: 1px solid var(--buttonClicked);
+  background: var(--buttonClicked);
+  color: var(--light1);
+}
+/* 主要按键不可用时的样式 */
+.bi-button_primary_unavailable{
+  border: 1px solid var(--unittecBlue);
+  background: var(--unittecBlue);
+  color: var(--light1);
+  opacity: 0.5;
+}
+
+/* bi-button_primary 表示次要按键 */
+/* 次要按键的默认样式 */
+.bi-button_default_default{
+  border: 1px solid var(--dark1);
+  background: var(--light1) ;
+  color: var(--unittecBlack);
+}
+/* 次要按键悬停时的样式 */
+.bi-button_default_hover{
+  border: 1px solid var(--unittecBlue);
+  background: var(--light1) ;
+  color: var(--unittecBlue);
+}
+/* 次要按键按下时的样式 */
+.bi-button_default_pressed{
+  border: 1px solid var(--buttonHover);
+  background: var(--light1) ;
+  color: var(--buttonHover);
+}
+/* 次要按键不可用时的样式 */
+.bi-button_default_unavailable{
+  border: 1px solid var(--dark1);
+  background: var(--light1) ;
+  color: var(--unittecBlack);
+  opacity: 0.5;
+}
+
+
+

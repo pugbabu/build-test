@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>查询统计1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-555.000000, -256.000000)" fill-rule="nonzero">
+            <g id="查询统计1" transform="translate(556.000000, 256.000000)">
+                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-10">
+                    <path d="M11.5133333,4 L1.6,4 C0.7163444,4 -1.47631605e-14,4.7163444 -1.42108547e-14,5.6 L-1.42108547e-14,19.4 C-1.36585489e-14,20.2836556 0.7163444,21 1.6,21 L20.4,21 C21.2836556,21 22,20.2836556 22,19.4 L22,12" id="Path-5" stroke="#F39800" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Combined-Shape" fill="#F39800" transform="translate(20.818377, 7.818377) rotate(-45.000000) translate(-20.818377, -7.818377) " x="19.8183766" y="5.41837662" width="2" height="4.8" rx="0.8"></rect>
+                    <circle id="Oval" stroke="#F39800" stroke-width="2" cx="17" cy="4" r="3"></circle>
+                </g>
+                <g id="Group" transform="translate(3.000000, 7.000000)" fill="#F39800">
+                    <rect id="Rectangle" x="0.5" y="0" width="3" height="11" rx="0.8"></rect>
+                    <rect id="Rectangle-Copy" x="4.5" y="6.28571429" width="3" height="4.71428571" rx="0.8"></rect>
+                    <rect id="Rectangle-Copy-2" x="8.5" y="3.92857143" width="3" height="7.07142857" rx="0.8"></rect>
+                    <rect id="Rectangle-Copy-3" x="12.5" y="2.35714286" width="3" height="8.64285714" rx="0.8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

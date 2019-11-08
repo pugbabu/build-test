@@ -1,0 +1,45 @@
+@import "../custom.css";
+
+/* popconfirm组件 */
+.bi-popconfirm {
+  background: var(--light1);
+}
+
+/* popconfirm的文本内容 */
+.bi-popconfirm_span{
+   font-family: var(--fontFamily);
+   word-break: normal;
+   color: var(--dark1);
+   font-size: var(--text);
+ }
+
+/* popconfirm的按键布局 */
+.bi-popconfirm_buttons{
+   text-align: right;
+ }
+
+/* popconfirm弹窗的内容（文本+按键）样式 */
+.bi-popover-inner-content {
+  padding-top: 24px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  color: rgba(0, 0, 0, 0.65);
+  box-shadow: var(--boxShadow) ;
+}
+
+/* popconfirm的圆角样式 */
+.ant-popover-inner{
+  border-radius: 5px !important;
+}
+
+.ant-popover-buttons{
+  margin-bottom: 0 !important;
+  padding-right: 12px;
+}
+
+/* 按键的样式 */
+.bi-modal_button{
+  margin: 0 12px 12px 0;
+  font-size: var(--reference) !important;
+}
+
